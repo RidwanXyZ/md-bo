@@ -1,0 +1,102 @@
+{
+  "users": {
+    "6283862083658@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6289514791129@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6287736293307-1634002194@g.us": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6288218169462@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6283167625687@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285795736749@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285725289509@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281290870352@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "62881024394715@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6282244494802@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "628991519639@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281330875576@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281322907133@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285654800490@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6283862083658@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6289514791129@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6287736293307-1634002194@g.us": {
+      "setWelcome": "こんにちは @user、グループへようこそ @subject！、ルールに従ってください> \\\\ <",
+      "setLeave": ""
+    },
+    "status@broadcast": {
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "6283862083658@s.whatsapp.net": {
+      "available": false,
+      "composing": false,
+      "recording": false
+    }
+  }
+}
